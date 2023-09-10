@@ -1,0 +1,32 @@
+.cart {
+    position: sticky;
+    top: 0;
+    padding: 28px 20px;
+}
+
+.order-title {
+    text-decoration: underline;
+}
+
+.btn-order {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    margin: auto;
+    font-size: 18px;
+    font-weight: 700;
+    background-color: #FF3030;
+    width: 232px;
+    height: 48px;
+    color: white;
+    border-radius: 8px;
+    border: none;
+}
+
+.btn-order:hover {
+    background-color: black;
+}
+
+.btn-text {
+    margin-right: 8px;
+}
